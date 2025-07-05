@@ -1,4 +1,4 @@
-print("Sequência de fibonacci:")
+print("Sequência de fibonacci")
 anterior = 0
 depois = 1
 for a in range(0,16):
@@ -6,4 +6,3 @@ for a in range(0,16):
     print(proximo)
     anterior = depois
     depois = proximo
-    
